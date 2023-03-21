@@ -1,0 +1,14 @@
+.esquerda{
+    background-color: #000;
+    color: #fff;
+}
+
+.direita{
+    background-color: #ffff00;
+}
+
+.esquerda, .direita{
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif
+    ;
+}
